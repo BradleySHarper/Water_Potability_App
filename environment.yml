@@ -26,6 +26,7 @@ dependencies:
  - rasterio
  - requests
  - scikit-image
+ - scikit-learn
  - scipy
  - shapely
  - snappy
