@@ -33,3 +33,6 @@ dependencies:
  - streamz
  - xarray
  - ipympl
+ - voila>=0.2.11
+ - jupyterlab>=3.1
+ - ipywidgets
