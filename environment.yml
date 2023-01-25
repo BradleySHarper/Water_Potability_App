@@ -34,7 +34,7 @@ dependencies:
  - streamz
  - xarray
  - ipympl
- - voila>=0.2.11
+ - voila>=0.4.0
  - jupyterlab>=3.1
  - ipywidgets
  - seaborn
