@@ -6,6 +6,7 @@ dependencies:
  - bokeh
  - cartopy
  - colorcet
+ - conda-lock
  - graphviz
  - python-graphviz
  - dask
@@ -16,6 +17,7 @@ dependencies:
  - ipython
  - jupyter
  - matplotlib
+ - micromamba
  - networkx>=2.0
  - numba
  - numpy
