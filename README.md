@@ -1,2 +1,2 @@
-# C964_Capstone
-This is my WGU capstone project titled Water Prediction
+# Water Quality Prediction
+This is a machine-learning project that predicts a water sample's potability.
